@@ -3,7 +3,7 @@
 # 💫 About Me:
 Passionate about building scalable, intuitive web apps. Experienced in React, Node.js, Express, MongoDB, and Python, with a focus on UI/UX and algorithms.
 Previously at GlobalLogic, developing EntryEase, an AI-powered onboarding platform with dashboards and chat support.
-🎓 Master’s in Interactive Media & Game Development, blending computer science with modern frontend technologies.
+🎓 Master’s in Computer Software and Media Application, blending computer science with modern frontend technologies.
 
 
 ## 🌐 Socials:
